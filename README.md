@@ -1,5 +1,5 @@
 # Marea cursa - The big race
-This racing car simulator is written in C++, using OpenGL as a graphic engine.
+This racing car simulator is written in C and C++, using OpenGL as a graphic engine.
 
 ---
 ## Scene controls
