@@ -1,0 +1,2762 @@
+# Blender 3.3.1 MTL File: 'track3.blend'
+# www.blender.org
+
+newmtl ItalianColors
+Ns 38.933319
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd Italiancolors.png
+
+newmtl Material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd scenery/hero-mountain/source/Hero_Mountain_solar_architect/Hero Mountain/Color__hero_mountain01.jpg
+
+newmtl Material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd scenery/mountain-range-01/source/Mountain_Range01_solararchitect/Mountain_Range01_solararchitect/color_range01.jpg
+
+newmtl Material.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd scenery/hero-mountain/source/Hero_Mountain_solar_architect/Hero Mountain/Color__hero_mountain01.jpg
+
+newmtl Material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd scenery/hero-mountain/source/Hero_Mountain_solar_architect/Hero Mountain/Color__hero_mountain01.jpg
+
+newmtl Material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd dirt.png
+
+newmtl Material.007
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd white.png
+
+newmtl Material.008
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd material.png
+
+newmtl Material.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd asphalt.png
+
+newmtl Material.barrier
+Ns 38.933319
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd material.png
+
+newmtl Material0-material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scenery/podium/lambert1_2D_View_copy.png
+
+newmtl Material0-material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scenery/podium/lambert1_2D_View_copy.png
+
+newmtl Material1-material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scenery/podium/phong1_2D_View_copy.png
+
+newmtl Material1-material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scenery/podium/phong1_2D_View_copy.png
+
+newmtl Material2-material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scenery/podium/phongE1_Mixed_AO_copy.png
+
+newmtl Material2-material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scenery/podium/phongE1_Mixed_AO_copy.png
+
+newmtl Material3-material
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scenery/podium/typeBlinn_2D_View.png
+
+newmtl Material3-material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd scenery/podium/typeBlinn_2D_View.png
+
+newmtl OutdoorToilet
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd OutdoorToilet/Materials/OutdoorToilet_basecolor.png
+
+newmtl PARKING
+Ns 32.000008
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd parking.png
+
+newmtl Plane.010__0
+Ns 159.999985
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd white.png
+
+newmtl db900
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.001
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.002
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.003
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.004
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.005
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 blue.tga
+
+newmtl db900.006
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.007
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.008
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.009
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 gray.tga
+
+newmtl db900.010
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.011
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.012
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.013
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.014
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.015
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.016
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.017
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.018
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.019
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 purple.tga
+
+newmtl db900.020
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.021
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.022
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.023
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.024
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 red.tga
+
+newmtl db900.025
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.026
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.027
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.028
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900.029
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 yellow.tga
+
+newmtl db900_env.001
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 blue.tga
+
+newmtl db900_env.002
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 gray.tga
+
+newmtl db900_env.003
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 green.tga
+
+newmtl db900_env.004
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 purple.tga
+
+newmtl db900_env.005
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 red.tga
+
+newmtl db900_env.006
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Leopard/Textures/db9 yellow.tga
+
+newmtl enzo00.001
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.002
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.003
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.004
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.005
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo blue.tga
+
+newmtl enzo00.006
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.007
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.008
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.009
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.010
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo gray.tga
+
+newmtl enzo00.011
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.012
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.013
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.014
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.015
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo green.tga
+
+newmtl enzo00.016
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.017
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.018
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.019
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.020
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo purple.tga
+
+newmtl enzo00.021
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.022
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.023
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.024
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.025
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.026
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.027
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.028
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.029
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00.030
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo yellow.tga
+
+newmtl enzo00_env.001
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.002
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.003
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.004
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.005
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo blue.tga
+
+newmtl enzo00_env.006
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.007
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.008
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.009
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.010
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo gray.tga
+
+newmtl enzo00_env.011
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.012
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.013
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.014
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.015
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo green.tga
+
+newmtl enzo00_env.016
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.017
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.018
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.019
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.020
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo purple.tga
+
+newmtl enzo00_env.021
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.022
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.023
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.024
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.025
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.026
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.027
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.028
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.029
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo red.tga
+
+newmtl enzo00_env.030
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Unicorn/Textures/enzo yellow.tga
+
+newmtl material.grass
+Ns 44.721355
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd grass.png
+
+newmtl mclaren00.001
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.002
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.003
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.004
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.005
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.006
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.007
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.008
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.009
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.010
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren gray.tga
+
+newmtl mclaren00.011
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.012
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.013
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.014
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.015
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren green.tga
+
+newmtl mclaren00.016
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.017
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.018
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.019
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.020
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren purple.tga
+
+newmtl mclaren00.021
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.022
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.023
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.024
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.025
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren red.tga
+
+newmtl mclaren00.026
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.027
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.028
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.029
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00.030
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren yellow.tga
+
+newmtl mclaren00_env.001
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.002
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.003
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.004
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.005
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.006
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.007
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.008
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.009
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.010
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.011
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.012
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.013
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.014
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.015
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.016
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.017
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.018
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.019
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.020
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.021
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.022
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.023
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.024
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.025
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.026
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.027
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.028
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.029
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mclaren00_env.030
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Mongoose/Textures/mclaren blue.tga
+
+newmtl mustang00.011
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.012
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.013
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.014
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.015
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.016
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang gray.tga
+
+newmtl mustang00.017
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.018
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.019
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.020
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.021
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00.022
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.023
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.024
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.025
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.026
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang purple.tga
+
+newmtl mustang00.027
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.028
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.029
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.030
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.031
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang red.tga
+
+newmtl mustang00.032
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.033
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.034
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.035
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.036
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang yellow.tga
+
+newmtl mustang00.037
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.038
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.039
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00.040
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00_env.011
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00_env.012
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00_env.013
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.014
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.015
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.016
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang gray.tga
+
+newmtl mustang00_env.017
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00_env.018
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.019
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.020
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.021
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.022
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00_env.023
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.024
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.025
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.026
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang purple.tga
+
+newmtl mustang00_env.027
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00_env.028
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.029
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.030
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.031
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang red.tga
+
+newmtl mustang00_env.032
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00_env.033
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.034
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.035
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.036
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang yellow.tga
+
+newmtl mustang00_env.037
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang blue.tga
+
+newmtl mustang00_env.038
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.039
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl mustang00_env.040
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Dragon/Textures/mustang green.tga
+
+newmtl overlay
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.050000 0.050000 0.050000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 2
+map_Kd textures/map.png
+map_d textures/map.png
+
+newmtl standard_material
+Ns 44.721355
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd standard_material.png
+
+newmtl viper00
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper blue.tga
+
+newmtl viper00.001
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.002
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.003
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.004
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.005
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper gray.tga
+
+newmtl viper00.006
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.007
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.008
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.009
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.010
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper green.tga
+
+newmtl viper00.011
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.012
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.013
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.014
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.015
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper purple.tga
+
+newmtl viper00.016
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.017
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.018
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.019
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.020
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.021
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.022
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.023
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.024
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.025
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper yellow.tga
+
+newmtl viper00.026
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.027
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.028
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00.029
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00_env
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper blue.tga
+
+newmtl viper00_env.001
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper gray.tga
+
+newmtl viper00_env.002
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper green.tga
+
+newmtl viper00_env.003
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper purple.tga
+
+newmtl viper00_env.004
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper red.tga
+
+newmtl viper00_env.005
+Ns 8.888887
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd Extreme Racers - Phoenix/Textures/viper yellow.tga

@@ -1,0 +1,44 @@
+# Blender 3.3.1 MTL File: 'track3.blend'
+# www.blender.org
+
+newmtl Cup
+Ns 399.999969
+Ka 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd transparent/Cup Color.png
+map_Ks transparent/Cup Reflections.png
+
+newmtl Gold.001
+Ns 360.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd transparent/gold.png
+
+newmtl body
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd transparent/textures/wctrophy_body_BaseColor.png
+map_Bump -bm 1.000000 transparent/textures/wctrophy_body_Normal.png
+
+newmtl globe
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd transparent/textures/wctrophy_globe_BaseColor.png
+map_Bump -bm 1.000000 transparent/textures/wctrophy_globe_Normal.png
